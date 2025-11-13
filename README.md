@@ -1,9 +1,13 @@
+<head> <meta name="title" content="Ledger.com/start – Step-by-Step Guide to Secure Your Crypto Wallet">
+  <meta name="description" content="Learn how to set up your Ledger hardware wallet safely using Ledger.com/start. Step-by-step instructions, crypto protection tips, and detailed insights to safeguard your digital assets."></head>
+
+
+
 <article style="font-family:'Poppins',sans-serif;background:#f0f4ff;color:#111827;max-width:1200px;margin:auto;padding:40px;border-radius:20px;box-shadow:0 0 30px rgba(0,0,0,0.1);line-height:1.8;">
 
 <!-- META TITLE & DESCRIPTION -->
 <div style="display:none;">
-  <meta name="title" content="Ledger.com/start – Step-by-Step Guide to Secure Your Crypto Wallet">
-  <meta name="description" content="Learn how to set up your Ledger hardware wallet safely using Ledger.com/start. Step-by-step instructions, crypto protection tips, and detailed insights to safeguard your digital assets.">
+ 
 </div>
 
 <!-- HERO IMAGE -->
